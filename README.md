@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rafi Al Rasyid</h1>
-<img align="center" alt="web developer" width="50%" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif">
+<div class="container" style="text-align: center;">
+  <img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif" width="50%" alt="web developer"
+</>
 <h3 align="center">I'am a Web Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
