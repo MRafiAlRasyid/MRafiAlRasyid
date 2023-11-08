@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rafi Al Rasyid</h1>
-<img src="https://giphy.com/embed/gh0RRgkTXedvF0pDc0" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/gh0RRgkTXedvF0pDc0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/city-marketing-public-gh0RRgkTXedvF0pDc0">via GIPHY</a></p>
 <h3 align="center">I'am a Web Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
