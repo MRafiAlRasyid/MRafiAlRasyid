@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rafi Al Rasyid</h1>
-<center>
-  <img src="https://media4.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif?cid=ecf05e47u9yz1drufeocgfhtg2tlpcwdzmpb5f7i4pu2numz&ep=v1_gifs_related&rid=giphy.gif&ct=g" >
-</center>
+<img src="https://media4.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif?cid=ecf05e47u9yz1drufeocgfhtg2tlpcwdzmpb5f7i4pu2numz&ep=v1_gifs_related&rid=giphy.gif&ct=g" style="display: block; margin: auto;">
+
 <h3 align="center">I'am a Web Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
