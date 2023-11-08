@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rafi Al Rasyid</h1>
-<img align="center" alt="web developer" width="50%" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="center" alt="web developer" width="100%" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <h3 align="center">I'am a Web Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
