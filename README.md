@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rafi Al Rasyid</h1>
-<div class="container" style="text-align: center;">
-  <img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif" width="50%" alt="web developer"
-</div>
+<iframe src="https://giphy.com/embed/gh0RRgkTXedvF0pDc0" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 <h3 align="center">I'am a Web Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
